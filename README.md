@@ -7,4 +7,4 @@ You'll need your own API key to use this notebook.  There is a tutorial video
 that'll help you get started.
 
 
-![Quick Start Video](https://youtu.be/5Z-rscKLY3g)
+[![Quick Start Video](https://img.youtube.com/vi/5Z-rscKLY3g/0.jpg)](https://youtu.be/5Z-rscKLY3g)
