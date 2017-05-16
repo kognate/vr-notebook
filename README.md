@@ -5,3 +5,6 @@ This is a notebook showing how to create classifiers and test them using the
 
 You'll need your own API key to use this notebook.  There is a tutorial video
 that'll help you get started.
+
+
+![Quick Start Video](https://youtu.be/5Z-rscKLY3g)
